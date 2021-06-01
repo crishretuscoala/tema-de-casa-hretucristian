@@ -1,0 +1,18 @@
+<br><br>
+<form id="form" onsubmit="return (valideazaNume() & valideazaPrenume());" action="/verificare-rezervare" method="POST">
+    <label for="nume">Nume:</label>
+    <input type="text" id="nume" name="nume" required><br><br>
+    <label for="prenume">Prenume:</label>
+    <input type="text" id="prenume" name="prenume" required><br><br>
+    <label for="numar">Numar de telefon:</label>
+    <input type="tel" id="numar" name="numar" required><br/><br>
+    <label for="operatiune">Categorie:</label>
+    <select id="operatiune" name="operatiune">
+        <option id="feline" value="Feline">Feline</option>
+        <option id="canine" value="canine">Canine</option>
+    </select>
+    <br><br>
+    <label for="date">Data:</label>
+    <input type="date" id="date" name="date" min='2021-06-01'><br><br>
+    <button type="submit">Rezerva</button>
+</form>

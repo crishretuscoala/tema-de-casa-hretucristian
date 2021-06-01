@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Odibee+Sans&family=Poiret+One&family=Press+Start+2P&display=swap');
+
+   
+   html{
+       background-color: RGB(255,153,25);
+  }
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
+  h1 {
+    text-align: center;
+    font-family:'Lobster', cursive;
+    font-size: 28px;
+    color: #b86609;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  }
+  .img{
+      text-align:center;
+  }
+  nav{
+    background-color: #EB8921;
+    height:80px;
+    align-items: center;
+    display:flex;
+    padding-left:350px;
+    border:2px;
+    border-color: cornsilk;
+  }
+  nav a{
+      
+      margin:20px;
+      color: white;
+      text-decoration: none;
+      font-family: 'Press Start 2P', cursive;
+      font-weight: bold;
+      font-size:13px;
+  }
+  a:hover{
+    color:rgb(235, 158, 57);
+  }
+  #footer{
+      font-size: 14px;
+      font-weight: bold;
+      text-align: center;
+  }
+  .coloana {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+ 
+  .coloana img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  
+  .coloana img:hover {
+    opacity: 1;
+  }
+  .rand{
+      padding-left:200px;
+  }
+  
+  .rand:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .angajati p{
+      text-align: center;
+      font-family:cursive;
+  }
+  th,td{
+    text-align: center;
+  }
+  .angajati img{
+    padding-left:550px;
+  }
+  #echipa{
+    text-align: center;
+    font-family:'Lobster',cursive;
+    font-size:22px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+  #proprietari{
+      padding-left:400px;
+  }
+ 
+  .container {
+        display: none;
+        margin-left: auto;
+        margin-right: auto;
+        width: 65%;
+
+  }
+  #adresa,#ore,#weekend,#liber,#nr,#email{
+    text-align: center;
+    color:rgb(26, 11, 5);
+    font-weight: bold;
+  }
+  h2{
+    text-align: center;
+  } 
+  #prog{
+    margin-left:220px;
+    color:black;
+  }
+  #prog:hover{
+    color:rgb(231, 135, 44);
+  }
+  #rezervare{
+    text-align: center;
+  }
+  .despre{
+    font-family:'Lobster',cursive;
+    text-align: center;
+    padding: 70px;
+    font-size: 18px;
+  }
+  button{
+    background-color: rgb(240, 161, 97);
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  form{
+    text-align: center;
+  }
+  input{
+    background-color:white;
+  }
+  label{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .noi{
+    background-image: url("background.jpg");
+  }
+  .despre{
+    padding-bottom: 180px;
+    text-align: center;
+    background-image: url("background.jpg");
+  }
+  .angajati{
+    font-weight: bold;
+    font-size: 18px;
+  }

@@ -1,0 +1,62 @@
+[
+    {
+        "animal":"Caine",
+        "rasa":"Bulldog Francez",
+        "varsta":3
+    },
+    {
+        "animal":"Pisica",
+        "rasa":"Sfinx",
+        "varsta":2
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Labradoodle",
+        "varsta":1
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Poodle",
+        "varsta":5
+    },
+    {
+        "animal":"Pisica",
+        "rasa":"Egyptian Mau",
+        "varsta":4
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Bulldog Francez",
+        "varsta":3
+    },
+    {
+        "animal":"Pisica",
+        "rasa":"Sfinx",
+        "varsta":2
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Labradoodle",
+        "varsta":1
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Poodle",
+        "varsta":5
+    },
+    {
+        "animal":"Pisica",
+        "rasa":"European Burmese",
+        "varsta":4
+    },
+    {
+        "animal":"Caine",
+        "rasa":"Poodle",
+        "varsta":5
+    },
+    {
+        "animal":"Pisica",
+        "rasa":"European Burmese",
+        "varsta":4
+    }
+]
